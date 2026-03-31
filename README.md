@@ -1,13 +1,16 @@
-# Engenharia-de-Prompt-e-Aplica-es-em-Ia
+# Engenharia-de-Prompt-e-Aplicacoes-em-Ia
 
-Meu Prompt: "Descreva uma taverna de RPG medieval e cite três personagens que estão nela agora."
 
-A resposta: A Taverna do Machado Cego é abafada, cheirando a carvalho queimado e ensopado de javali. Velas de sebo iluminam as mesas de madeira rústica.
+Este é o meu espaço para organizar e guardar tudo o que eu venho desenvolvendo na disciplina de **Engenharia de Prompt e Aplicações em IA**.
 
-Os Personagens:
+### O que tem aqui?
+**Práticas de Aula:** Testes reais comparando prompts Neutros, Personas e Restritivos.
+**Análises de Precisão:** Registros sobre como o contexto e as personas afetam a lógica e a taxa de alucinação das IAs.
+**Estudos de Caso:** Notas sobre pesquisas relevantes, como o estudo da USC sobre o desempenho de modelos em tarefas exatas.
 
-Grog: O taverneiro robusto que limpa o balcão com um pano encardido.
+### Ferramentas que utilizo
+**Modelos:** Maritaca AI, ChatGPT e Gemini.
+**Validação:** Programiz para testar a funcionalidade dos códigos gerados.
 
-Lira: Uma barda dedilhando um alaúde quebrado em um canto sombrio.
-
-Kael: Um cavaleiro de armadura amassada bebendo hidromel sozinho.
+**Hebert Vinicius Almeida de Souza**
+**Centro Universitário UDF**
