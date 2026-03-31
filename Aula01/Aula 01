@@ -1,0 +1,31 @@
+O que é a programação?
+
+Se pensarmos que o computador é um executor de tarefas extremamente rápido, mas sem iniciativa própria, a **programação** é a linguagem que usamos para dar ordens a ele. Em termos técnicos, é o processo de escrever, testar e manter um conjunto de instruções (o código-fonte) que diz à máquina exatamente o que fazer para resolver um problema ou criar algo novo, desde uma simples calculadora até um sistema de inteligência artificial.
+
+Para que essa comunicação aconteça, utilizamos as **Linguagens de Programação**, que servem como uma ponte entre o pensamento humano e a lógica binária dos processadores. É como uma receita de bolo: você define os ingredientes (dados) e o passo a passo (algoritmo). Se você errar a ordem ou esquecer um detalhe, o resultado final não será o esperado.
+
+---
+
+### Os Pilares da Programação
+
+Para programar, você geralmente trabalha com três conceitos fundamentais:
+
+* **Algoritmos:** A sequência lógica de passos para concluir a tarefa.
+* **Sintaxe:** As regras gramaticais da linguagem escolhida (como Python, JavaScript ou C++).
+* **Lógica de Programação:** A habilidade de estruturar o pensamento de forma que o computador consiga processar.
+
+### Onde a programação está presente?
+
+Praticamente tudo o que é digital depende de programação:
+* **Desenvolvimento Web:** Sites e plataformas que você acessa pelo navegador.
+* **Aplicativos Móveis:** Tudo o que roda no seu celular.
+* **Sistemas Embarcados:** O software que controla desde o micro-ondas até a injeção eletrônica de um carro.
+* **Ciência de Dados:** Scripts que processam milhões de informações para prever tendências de mercado.
+
+---
+
+### Por onde começar?
+
+Hoje em dia, a porta de entrada mais comum é a linguagem **Python**, devido à sua sintaxe que se aproxima muito do inglês comum, facilitando o aprendizado da lógica antes de lidar com conceitos mais complexos de hardware. 
+
+Você tem curiosidade em saber como a lógica de programação se aplica especificamente na criação de scripts ou automações simples?
